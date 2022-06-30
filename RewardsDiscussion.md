@@ -413,7 +413,7 @@ Rewards Discussions are brief 15-20 minute conversations between a manager and t
 A Rewards Discussion is not a detailed review of all accomplishments over the last fiscal year nor is it a year-end performance review since the manager has had Reflection Conversations and 1:1 meetings with their Hubbers throughout the year to discuss impact.  
 <br>
 
-[**Step 1:  Get Ready for the Rewards Discussion**](https://github.com/JbytheC/JbytheC/edit/main/RewardsDiscussion.md#step-1-get-ready-for-the-rewards-discussion-calendar-)
+[**Step 1:  Get Ready for the Rewards Discussion**](https://github.com/JbytheC/JbytheC/blob/main/RewardsDiscussion.md#step-1-get-ready-for-the-rewards-discussion-calendar-)
 <br>
 **Step 2:  Communicate Rewards**
 <br>
