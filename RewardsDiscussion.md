@@ -448,8 +448,9 @@ For common Snapshot questions, see the [FAQ](https://github.com/PeopleManagers/m
 <details><summary><strong>Gather and review available information</strong></summary>
 <br>
 As you are preparing for a rewards discussion with each employee:
-- Consider the overall context of the employee's impact. If needed, re-review the Hubber's Reflections, formal and informal feedback, and your 1:1 meeting notes. <br>
-- Look at the Snapshot to see the actual value of an employee's bonus, stock, and merit awards.
+  
+* Consider the overall context of the employee's impact. If needed, re-review the Hubber's Reflections, formal and informal feedback, and your 1:1 meeting notes. <br>
+* Look at the Snapshot to see the actual value of an employee's bonus, stock, and merit awards.
 
 </details>
 
