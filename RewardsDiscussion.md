@@ -413,7 +413,7 @@ Rewards Discussions are brief 15-20 minute conversations between a manager and t
 A Rewards Discussion is not a detailed review of all accomplishments over the last fiscal year nor is it a year-end performance review since the manager has had Reflection Conversations and 1:1 meetings with their Hubbers throughout the year to discuss impact.  
 <br>
 
-**Step 1:  Get Ready for the Rewards Discussion** 
+[**Step 1:  Get Ready for the Rewards Discussion**](https://github.com/JbytheC/JbytheC/edit/main/RewardsDiscussion.md#step-1-get-ready-for-the-rewards-discussion-calendar-)
 <br>
 **Step 2:  Communicate Rewards**
 <br>
@@ -458,15 +458,32 @@ As you are preparing for a rewards discussion with each employee:
 <br>  
 Set aside time to connect with your manager to ask any questions you may have in understanding or supporting the rewards outcomes. Remember to approach the conversation with curiosity, seeking to understand what you may not have seen. Consider the following discussion points: 
   
- *  What thematic guidance of higher and lower impact came out of Impact Discussions? 
-  
- *  If the rewards outcome changed significantly from your recommendation, was it based on a different view of impact? Or was it based on how budget was allocated? <br>
+ * What thematic guidance of higher and lower impact came out of Impact Discussions? 
+ * If the rewards outcome changed significantly from your recommendation, was it based on a different view of impact? Or was it based on how budget was allocated? <br>
  * What other information do you need to help demonstrate support for the outcomes? 
   
 It is important that you understand the outcomes so that you can effectively own the rewards message; that is to represent the outcomes, and your role in reaching them. Research shows that one of the top indicators of an employee's satisfaction with their pay is that their manager had involvement and input into the process. <br>
 
 Being prepared and helping your Hubbers understand how impact and budget considerations drove rewards across the organization will help the conversation go more smoothly and ideally help motivate your employees for the coming year.
 
+</details>
+
+
+<details><summary><strong>Consider Key Messages and Employee Questions</strong></summary>
+<br>
+After reviewing available information and connecting with your manager, you will now have an idea of what type of conversation you will have with the Hubber during the rewards discussion.
+While a key principle of our P&D philosophy is one year, one reward, the reality is that many employees will be naturally curious about how their rewards outcomes compare to years prior and this could impact how they respond to the rewards message that is being delivered.​
+
+Remember, one year, one reward is an important point to emphasize with employees during the discussion. You don’t need to re-deliver rewards outcomes from the past. However, depending on whether this year’s annual rewards are materially more, materially less, or similar to last year's total you may want to consider the guidance below to determine which reasons primarily contributed to the comparative rewards outcome and use it as context to customize your approach for the discussion and to address employee questions.​ ​
+  
+**The Hubber received more rewards this year**
+| ---- | ---- | ---- | 
+**| Consideration |Talking Points|**
+| Greater opportunity and delivery of impact than last year| This year you had increased opportunity to impact results for our (team, business, customer) And you effectively took advantage of those opportunities because of this, you are receiving more rewards as recontition of that maximized impact.  |
+| Terminology | 160% payout | Higher immpact |
+| Owning your influence in the process | If it was up to me… |
+
+  
 </details>
 
 
