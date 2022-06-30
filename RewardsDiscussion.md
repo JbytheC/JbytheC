@@ -473,13 +473,14 @@ Being prepared and helping your Hubbers understand how impact and budget conside
 <details><summary><strong>Consider Key Messages and Employee Questions</strong></summary>
 <br>
 After reviewing available information and connecting with your manager, you will now have an idea of what type of conversation you will have with the Hubber during the rewards discussion.
-While a key principle of our P&D philosophy is one year, one reward, the reality is that many employees will be naturally curious about how their rewards outcomes compare to years prior and this could impact how they respond to the rewards message that is being delivered.​
-
-Remember, one year, one reward is an important point to emphasize with employees during the discussion. You don’t need to re-deliver rewards outcomes from the past. However, depending on whether this year’s annual rewards are materially more, materially less, or similar to last year's total you may want to consider the guidance below to determine which reasons primarily contributed to the comparative rewards outcome and use it as context to customize your approach for the discussion and to address employee questions.​ ​
+While a key principle of our P&D philosophy is one year, one reward, the reality is that many employees will be naturally curious about how their rewards outcomes compare to years prior and this could impact how they respond to the rewards message that is being delivered.
+<br>
+Remember, one year, one reward is an important point to emphasize with employees during the discussion. You don’t need to re-deliver rewards outcomes from the past. However, depending on whether this year’s annual rewards are materially more, materially less, or similar to last year's total you may want to consider the guidance below to determine which reasons primarily contributed to the comparative rewards outcome and use it as context to customize your approach for the discussion and to address employee questions.
   
 **The Hubber received more rewards this year**
-| ---- | ---- | ---- | 
-**| Consideration |Talking Points|**
+
+| Consideration |Talking Points|
+| - | - |
 | Greater opportunity and delivery of impact than last year| This year you had increased opportunity to impact results for our (team, business, customer) And you effectively took advantage of those opportunities because of this, you are receiving more rewards as recontition of that maximized impact.  |
 | Terminology | 160% payout | Higher immpact |
 | Owning your influence in the process | If it was up to me… |
