@@ -416,7 +416,8 @@ A Rewards Discussion is not a detailed review of all accomplishments over the la
 [**Step 1:  Get Ready for the Rewards Discussion**](https://github.com/JbytheC/JbytheC/blob/main/RewardsDiscussion.md#step-1-get-ready-for-the-rewards-discussion-calendar-)
 <br>
 **Step 2:  Prepare for Scenarios & Questions You May Encounter**
-**Step :  Communicate Rewards**
+**Step 3:  Communicate Rewards**
+
 <br>
 
 ### Step 1: Get Ready for the Rewards Discussion :calendar: 📝
@@ -506,7 +507,9 @@ Remember, one year, one reward is an important point to emphasize with employees
 | Role or other change (LOA, New Hire) | The basis for your rewards decreased because (pick one): You had fewer bonus-eligible days this year resulting in prorated rewards for degree of impact delivered; Your grade decreased and your bonus and/or stock opportunity was less; You transferred to a different role with a grade or pay opportunity changes |
 | Similiar impact as last year, but higher expectations due to higher grade | You were promoted into a higher grade this past year, so while you had similiar impact to last year, the expectation for impact increased with that grade change.  The reward outcomes are aligned with impact for your grade. |
 
-  
+
+</details>
+
 <details><summary><strong>Own the Rewards Message</strong></summary>
 <br>
     
