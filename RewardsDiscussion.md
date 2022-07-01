@@ -496,8 +496,7 @@ Key messages to keep in mind as you prepare for the Rewards Discussion:
   
 </details>
 
-### Step 2: Prepare for Potential Scenarios and Questions You May Encounter ✏️:
-
+### Step 2: Prepare for Potential Scenarios and Questions You May Encounter ✏
 
 <details><summary><strong>Key Message and employee questions related to relationship of rewards to prior years</strong></summary>
 <br>
@@ -534,37 +533,6 @@ Remember, one year, one reward is an important point to emphasize with employees
 | Role or other change (LOA, New Hire) | The basis for your rewards decreased because (pick one): You had fewer bonus-eligible days this year resulting in prorated rewards for degree of impact delivered; Your grade decreased and your bonus and/or stock opportunity was less; You transferred to a different role with a grade or pay opportunity changes |
 | Similiar impact as last year, but higher expectations due to higher grade | You were promoted into a higher grade this past year, so while you had similiar impact to last year, the expectation for impact increased with that grade change.  The reward outcomes are aligned with impact for your grade. |
 
-details><summary><strong>Be prepared for potential employee questions</strong></summary>
-<br>
-**Directional Guidance:**
-    <br>
-* Express care, acknowledging that the circumstances of this unprecedented year have impacted all of us in different ways.<br>
-* Seek to understand your employee’s perspective and acknowledge the extra effort to manage work and life priorities this year.<br>
-* Ground the conversation in impact (vs. activity) over the measurement period.<br> 
-
-**Potential Talking Points:**
-* “I want you to know that I value your work and extra effort during this exceptionally challenging time."<br>
-* “I'm really grateful that you were able to continue to deliver on what we prioritized for the period.”<br>
-* “I know we all had to work differently this year. Yet we continue to operate in a high-performing environment with high expectations. Would it help if I share some themes of what higher impact looked like this cycle?”
-
-
-</details>
-
-<details><summary><strong>I had to split time taking care of my children/family while trying to deliver on my goals - did this influence my rewards?</strong></summary>
-<br>
-
-**Directional Guidance:**
-    <br>
-* Express care by acknowledging your employee’s situation but avoid making assumptions about how caring for kids/family may have impacted their work.<br>
-* Reinforce that rewards are based on impact in moving the business forward and are not a judgment on how much or how little you were able to work.<br>
-* Reference LT messages that prioritized taking care of ourselves and our families.<br>
-* Look forward to the period ahead, discuss collective priorities and how you can help your direct report be successful.
-<br>
-    
-**Potential Talking Points:**
-* “I know that you’ve had a lot to balance over the past few months and I value all that you have been able to do for the business during this time. I considered your impact for the measurement period when recommending rewards.”<br>
-* “When determining your impact, I considered how we prioritized your deliverables and what impact you were able to drive as a result.”<br>
-* “Knowing that things continue to be uncertain, let’s discuss priorities for the period ahead and how I can best support you.”  
 
 </details>
 
@@ -572,10 +540,9 @@ details><summary><strong>Be prepared for potential employee questions</strong></
 <br>
     
 **Directional Guidance:**
-This may be asked any number of ways and is likely to be a common type of question given our approach where rewards outcomes are not aligned to pre-determined definitions or categories. 
-* Ensure your Hubber has a shared understanding of their level of impact for the past fiscal year.
-* Reiterate that we deliver higher rewards for higher impact<br>
-
+This may be asked any number of ways and is likely to be a common type of question given our approach where rewards outcomes are not aligned to pre-determined definitions or categories. <br>
+* Ensure your Hubber has a shared understanding of their level of impact for the past fiscal year. <br>
+* Reiterate that we deliver higher rewards for higher impact. <br>
 * Briefly highlight how they delivered impact against their priorities.  Did they deliver on some or all?  Are there areas where they could have had greater impact?<br>
 * Share examples of how they delivered impact against the 3 circles.  In addition to individual contributions, how did they leverage the work of other and contribute to others success?<br>
 * Reference themes from feedback from peers.<br>
@@ -583,6 +550,115 @@ This may be asked any number of ways and is likely to be a common type of questi
 * Reiterate that we operate within a high performing organization and have high expectations for every Hubber.<br>
 * Reference the Hubber's compensation over time and focus the discussion on increasing impact as the way to earn even greater rewards.<br>
 
+  </details>
+
+<details><summary><strong>How was this decision reached?</strong></summary>
+<br>
+
+**Directional Guidance:**
+This could be asked many different ways: Who made this decision? Is this what you think is fair? Did you recommend more? How ere budgets calculate?  Understand and talk about: <br>
+* Explain at a high level how the process for determining impact and recommending rewards works.  Focus on how you determined impact. <br>
+* Be sure to point out your role in making an initial recommendation and touch on highlights that framed your recommendation. <br>
+* Talk about the role of the next-level managers who rationalize rewards recommendations across the organization to ensure consistency and the role of the organizational leader to allocate budget.<br>
+Explain the implications of a fixed budget when driving the rewards outcomes: <br>
+* We work to differentiate rewards based on where we see the greatest impact in the past year.  We give higher rewards for higher impact, and lower rewards for lower impact in the previous fiscal year. <br>
+* If all managers indicate high impact for all Hubbers the underlying budget will drive lower rewards than the outcomes available when impact and rewards are differentiated. <br>
+
+ 
+  </details>
+
+<details><summary><strong>How do I repeat this next year?</strong></summary>
+<br>
+
+**Directional Guidance:**
+When an employee receives top rewards, or more rewards than expected, they may ask what is needed to achieve a similar outcome in the year ahead. <br>
+* Express empathy, acknowledging that shifts in priorities may have affected opportunity for impact post-COVID-19.<br>
+* Encourage the employee to maximize impact across all three areas: individual contributions, leveraging the work of others and contributing to the success of others. <br>
+* Share the importance of delivering impact in alignment with our culture and values, including actively contributing to an inclusive environment and if a manager, delivering success through empowerment and accountability by modeling, coaching and caring.<br>
+* Emphasize the importance of a growth mindset, asking for feedback from a diverse set of stakeholders and applying what you learn. <br>
+* Encourage on-going dialogue through robust 1:1s and Reflection discussions throughout the year to reflect on impact and how to prioritize and align on work going forward. <br>
+* Acknowledge that each year is different and brings new opportunities to learn, grow, and deliver impact. <br>
+  
+</details>
+
+<details><summary><strong>How do I compare to others?</strong></summary>
+<br>
+
+**Directional Guidance:**
+Our approach is not oriented to a comparison with peers. Even so, it is natural for people to wonder how their results compare to others. Try to manage this balance in your discussion by using the guidance below to answer questions such as: Where do I stand? How does this compare to others in the organization? How many people got more than I did? <br>
+* Make sure the Hubber knows where they have been successful in driving impact and what opportunities they have to improve going forward. This is the most effective way to help them know their impact compared to role expectations and their opportunity for impact. <br>
+* Learn from your manager what themes were discussed at Impact Discussion in describing higher impact in the organization. Reference these benchmarks and invite a discussion with your Hubber to reflect on what they can do in the year ahead to drive higher impact. <br>
+* Reinforce that there is a broad range of reward outcomes that can occur within the prescribed budgets. Actual outcomes within and across orgs will likely vary based on the different dynamics in each org and the choices leaders and senior managers made to allocate their budget most effectively based on the impact recommendations they received.<br>
+
+  
+  </details>
+
+<details><summary><strong>What could I have done differently for higher rewards?</strong></summary>
+<br>
+
+**Directional Guidance:**
+If your Hubber received rewards in the middle range, reinforce that we have high performance expectations for our employees, and they met those expectations. This is a great outcome! To directly address the question, you can:
+    <br>
+Focus the conversation on where your Hubber could have delivered higher impact across one or more of the following areas: individual accomplishments; building on the work, ideas, and efforts of others; and contributing to the success of others. 
+* Refer to discussions throughout the year, noting specific instances where opportunities for impact may have been missed or less than anticipated.Reiterate GitHub's pay for performance philosophy of higher impact, higher rewards. <br>
+* Remind your Hubber that rewards are based on impact for the full fiscal year and remember to motivate your Hubber for the year ahead. <br>
+* Explain to your Hubber that they can maximize their impact by taking on work beyond the typical boundaries of their role and delivering results across all three circles of impact. <br>
+
+    
+  </details>
+
+<details><summary><strong>What did you use to determine and represent my impact for the rewards process?/strong></summary>
+<br>
+
+**Directional Guidance:**
+Share what you used to arrive at your impact recommendation so that your Hubbers have real examples of how you have had involvement and input in determining their final rewards outcome. You may hear questions such as: Can I see what was written about me for this decision? Can you send me a summary of my last year?<br>
+  
+Talk with your Hubber about what sources you used to inform your impact recommendation: 
+* Reference any materials that you may have used, such as Reflections, 1:1 meetings, feedback, notes, observations, and so on. <br>
+* Remind them why we don't have any end of year write-up or performance discussion. We discuss impact throughout the year in 1:1s and Reflections, to learn, grow, and deliver greater results. <br>
+* Note how you connected with your manager to make sure they were prepared for Impact Discussions, and if you had any follow-up conversations with your manager after Impact Discussions about how examples of higher or lower impact shared in Impact Discussion may have impacted recommendations.
+
+  
+  </details>
+
+<details><summary><strong>Why did I get zero rewards</strong></summary>
+<br>
+
+**Directional Guidance:**
+For those Hubbers who received zero rewards, it is important to invest the right amount of time for this discussion. While a zero rewards outcome may not be a surprise to the employee, it may still be difficult for an employee to hear and discuss. Do your best to anticipate the employee's state of mind coming into the discussion, seeking to understand their current circumstances and potential concerns. Consider whether you want to send the Snapshot prior to the discussion for the employee to review and react in private, or if it may be better to share the results while in a discussion together.<br>
+
+Prepare yourself for questions that may come up, such as: Why did I get zero rewards? How many people got zero rewards? What does this mean for my future at GtiHub?
+ <br>
+* A result of zero rewards should not come as a surprise. <br>
+* Refer to discussions throughout the year, noting specific instances where opportunities for impact were missed or less than anticipated. If the Hubber had Insufficient Results checked in a Reflection from this fiscal year, that is another helpful reference. <br>
+* Remind the Hubber that the result reflects performance for the full fiscal year. <br>
+* Zero rewards does not mean zero impact. It represents that someone didn't have the level of impact that was sufficient to warrant incremental rewards. <br>
+* Reinforce that there is no targeted percentage of zero rewards and therefore you do not know how many other people received zero rewards. <br>
+* Confirm that this was not the result of a curve or budget, but was because the impact they delivered was significantly below expectations. <br>
+* Make it clear that you support this outcome and also be clear about what changes may be needed going forward. <br>
+* Tailor any response about the Hubber's future at GitHub to the Hubber's individual situation and performance history. Reiterate ’one year, one reward,’ reinforcing that each year is different and brings new opportunities to learn, grow, and deliver impact.As appropriate, remind the employee that you are willing to support them in addressing performance issues, and ask if the employee is open to your support. <br>
+  
+  
+  </details>
+
+<details><summary><strong>Why did I get zero or reduced stock?</strong></summary>
+<br>
+
+**Directional Guidance:**
+Discussion points for a Hubber that received bonus but zero stock, or similar bonus compared to last year but no stock. <br>
+
+It is important to invest the right amount of time for this discussion. Understand the Hubber's state of mind coming into the discussion to help prepare yourself for questions that may come up, such as: Why did I get zero stock if I got a bonus? How many people got zero or reduced stock? What does this mean for my future at GitHub?<br>
+* While a Hubber may not be expecting higher rewards, recognize that zero or reduced stock, in combination with a merit or bonus, may still come as a surprise for the Hubber. <br>
+* Share that our rewards approach emphasizes delivering higher rewards for higher impact, and lower or zero rewards for lower impact. <br>
+* Zero stock does not mean zero impact. It represents that someone had lower impact than they had the opportunity to deliver in the past year. <br>
+* Refer to discussions throughout the year, noting specific instances where opportunities for impact were missed or less than anticipated. <br>
+* Reinforce that there is no targeted percentage of zero or reduced stock, and therefore you do not know how many other people received zero or reduced stock.<br>
+* Confirm that this was not the result of a curve or budget but was determined based on the impact they delivered over the past fiscal year. <br>
+* Make it clear that you support this outcome and also be clear on any changes needed going forward, if the employee is struggling with performance. <br>
+* Tailor any response about the Hubber's future at GitHub to the Hubber's individual situation and performance history. You could share that the following year may afford them with another opportunity to achieve greater impact. As appropriate, remind the Hubber that you are willing to support them in addressing performance issues, and ask if the Hubber is open to your support. <br>
+  
+Even if you are delivering a zero or reduced stock rewards message, you still have an opportunity to recognize and thank the Hubber for their contributions, while also directly addressing performance concerns (if applicable). Demonstrate care by engaging in the conversation with empathy and showing a continued commitment to their growth and well-being. Provide space for the Hubber to react and to request a follow-on conversation once they’ve had the time to process. Set the tone for how you'll work together and coach them to drive more impact and contributions to business results in the year ahead. <br>
+  
 </details>
 
 <details><summary><strong>My work/project was de-prioritized or cancelled - did this impact my rewards?</strong></summary>
