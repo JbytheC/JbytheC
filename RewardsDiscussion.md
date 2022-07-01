@@ -424,7 +424,7 @@ The best Rewards Discussions are those a manager is prepared to have. They may b
 <details><summary><strong>Schedule the Rewards Discussion</strong></summary>
 <br>
     
-Schedule a date and time for each Rewards Discussion, ~20 minutes, and set expectations with your Hubbber about what the discussion will entail.  Managers are notified via email when Snapshots are made available, typically  mid-August.  Rewards Discussions should take place prior to mid-September when Snapshots are auto-released to employees or before September 1 if the employee is being promoted effective on that date.  Click here [Key Dates](https://github.com/PeopleManagers/managers/blob/master/manager-toolkit/People%20Processes/FY22Key-Dates.md) for key dates. 
+Schedule a date and time for each Rewards Discussion, ~20 minutes, and set expectations with your Hubbber about what the discussion will entail.  Managers are notified via email when Snapshots are made available, typically  mid-August.  Rewards Discussions should take place prior to mid-September when Snapshots are auto-released to employees or before September 1 if the employee is being promoted effective on that date.  Click here for [Key Dates](https://github.com/PeopleManagers/managers/blob/master/manager-toolkit/People%20Processes/FY22Key-Dates.md). 
 When selecting a date for each discussion, ensure that you have allowed yourself adequate time to prepare before the discussion.  Consider scheduling a buffer of time between discussions in case you need extra time. 
 
 
@@ -473,7 +473,9 @@ Being prepared and helping your Hubbers understand how impact and budget conside
 <details><summary><strong>Consider Key Messages and Employee Questions</strong></summary>
 <br>
 After reviewing available information and connecting with your manager, you will now have an idea of what type of conversation you will have with the Hubber during the rewards discussion.
+  
 While a key principle of our P&D philosophy is one year, one reward, the reality is that many employees will be naturally curious about how their rewards outcomes compare to years prior and this could impact how they respond to the rewards message that is being delivered.
+  
 <br>
 Remember, one year, one reward is an important point to emphasize with employees during the discussion. You don’t need to re-deliver rewards outcomes from the past. However, depending on whether this year’s annual rewards are materially more, materially less, or similar to last year's total you may want to consider the guidance below to determine which reasons primarily contributed to the comparative rewards outcome and use it as context to customize your approach for the discussion and to address employee questions.
   
@@ -482,10 +484,27 @@ Remember, one year, one reward is an important point to emphasize with employees
 | Consideration |Talking Points|
 | - | - |
 | Greater opportunity and delivery of impact than last year| This year you had increased opportunity to impact results for our (team, business, customer) And you effectively took advantage of those opportunities because of this, you are receiving more rewards as recontition of that maximized impact.  |
-| Terminology | 160% payout | Higher immpact |
-| Owning your influence in the process | If it was up to me… |
+| More impactful performance than last year  | You delivered more impact this year by (pick one or more): Strengthening your individual achievements; Contributing more to the success of others; Leveraging more of the work and ideas of others; Helping to make GitHub a more diverse and inclusive environment; Delivering success through empowerment and accountability by modeling, coaching and caring (applicable to managers)
+Because of this, you are receiving more rewards as recognition of that strengthened impact |
+| We value individual contributions and working together | You continued to effecively: Contribute to the success of others; Leverage the work and ideas of others.  Your higher rewards reflect recognition of the way you work with and t hrough others to have (better and/or broader impact. |
+| Role or grade change| The basis for your rewards increased because you (pick one): Recived a promoiton and your bonus and /orstock opportunity increased; Transferred to a different role with grade or pay opportunity changes; You had more bonus-eligible days this year; You did not work a full year last year (for exampe LOA, new hire|
+  
+**The Hubber received comparative rewards outcomes**
+
+| Consideration |Talking Points|
+| - | - |  
+| Similiar opportunity and delivery of impact as last year | This year you had comparable opportunity as last year to impact results for our (pick one or more): team, business and/or customer.  And you took advantage of those opportunities to a similar degree.  Because of this, your rewards this year are similar to what you received last year. | 
+| More impactful performance than last year, but higher expectations due to higher grade | You were promoted into a higher grade this past year, so while you had greater impact than last year, the expectation increased with the grade change.  The reward outcomes are well aligned with impact for your grade. |
 
   
+  **The Hubber received less rewards outcomes**
+
+| Consideration |Talking Points|
+| - | - |  
+| Less opportunity and deliver of impact than last year | This year you had less opportunity (or didn't seek out additional opportunity) than last year to impact results for our (pick one or more): team, business, and/or customer.  Because of this, your rewards this year are less than last year. We've also discussed ways that you can increase your opportunities for impact going forward such as: (share examples you've discussed) | 
+| Role or other change (LOA, New Hire) | The basis for your rewards decreased because (pick one): You had fewer bonus-eligible days this year resulting in prorated rewards for degree of impact delivered; Your grade decreased and your bonus and/or stock opportunity was less; You transferred to a different role with a grade or pay opportunity changes |
+| Similiar impact as last year, but higher expectations due to higher grade | You were promoted into a higher grade this past year, so while you had similiar impact to last year, the expectation for impact increased with that grade change.  The reward outcomes are aligned with impact for your grade. |
+
 </details>
 
 
