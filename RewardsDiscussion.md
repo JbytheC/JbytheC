@@ -475,7 +475,13 @@ Being prepared and helping your Hubbers understand how impact and budget conside
 
 <details><summary><strong>Choose when to Release the Snapshot</strong></summary>
 <br>
-Decide if you want to release your Hubber's Snapshot before or after the rewards discussion 
+Decide if you want to release your Hubber's Snapshot before or after the rewards discussion.  When making that decision, consider the following: <br>
+* The message you will need to deliver – Determine if your direct report may have the appropriate context for the outcomes before they see the numbers and if they will likely have a number of follow-up questions that you can answer more effectively during the discussion. <br>
+* How your employee best processes information – Determine if they may need time to read through it and understand the information before you meet, or if they may be able to take in the information as you go through the Snapshot. <br>
+* Any logistical factors – You can pull up your Hubber’s Snapshot during the discussion and can share your screen with them; however, if there are technical or logistical reasons that might make doing so difficult, you may want to send it to them in advance.
+* In cases where the Hubber is not active and/or the immediate manager is not able to release the snapshot, please contact [HRZendesk](https://github-hr.zendesk.com/hc/en-us)
+  
+  
 </details>
 
 <details><summary><strong>Own the Rewards Message</strong></summary>
@@ -659,14 +665,24 @@ It is important to invest the right amount of time for this discussion. Understa
   
 Even if you are delivering a zero or reduced stock rewards message, you still have an opportunity to recognize and thank the Hubber for their contributions, while also directly addressing performance concerns (if applicable). Demonstrate care by engaging in the conversation with empathy and showing a continued commitment to their growth and well-being. Provide space for the Hubber to react and to request a follow-on conversation once they’ve had the time to process. Set the tone for how you'll work together and coach them to drive more impact and contributions to business results in the year ahead. <br>
   
-</details>
+  
+<details><summary><strong>Why didn't I get promoted?/strong></summary>
+<br>
+
+**Directional Guidance:**
+Discuss the promotion criteria - business need, employee impact, and budget availability – and acknowledge that all three must be met to promote an employee.<br>
+* Take note of what additional readiness efforts may be needed for promotion recommendation consideration. <br>
+* Demonstrate care by offering support going forward to help them achieve their goal of promotion. <br>
+* Remind them that promotions are independent of rewards and can happen other times throughout the year provided all three guidelines are met.
+  
+  </details>
 
 <details><summary><strong>My work/project was de-prioritized or cancelled - did this impact my rewards?</strong></summary>
 <br>
 
 **Directional Guidance:**
     <br>
-* Express empathy, acknowledging that shifts in priorities may have affected opportunity for impact post-COVID-19.<br>
+* Express empathy, acknowledging that shifts in priorities may have affected opportunity for impact.<br>
 * Provide specific examples of impact that were part of your employee’s work prior to the delay/cancellation.<br>
 * Share examples of impact from deliverables that were prioritized when work shifted. This emphasizes that work may change, but there is still opportunity for impact.<br>
 
@@ -691,7 +707,6 @@ Even if you are delivering a zero or reduced stock rewards message, you still ha
 * “I considered your impact for the active time you worked over the full fiscal year and not for the time when you were away on leave."<br>
 * “I appreciate the time and effort that you put into this year. I recognize the challenges you worked through to continue to deliver for the team/company.”<br>
 
-</details>
 </details>
 
 <br>
