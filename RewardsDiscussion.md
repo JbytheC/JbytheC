@@ -416,6 +416,7 @@ A Rewards Discussion is not a detailed review of all accomplishments over the la
 [**Step 1:  Get Ready for the Rewards Discussion**](https://github.com/JbytheC/JbytheC/blob/main/RewardsDiscussion.md#step-1-get-ready-for-the-rewards-discussion-calendar-)
 <br>
 **Step 2:  Prepare for Scenarios & Questions You May Encounter**
+<br>
 **Step 3:  Communicate Rewards**
 
 <br>
@@ -469,12 +470,38 @@ It is important that you understand the outcomes so that you can effectively own
 
 Being prepared and helping your Hubbers understand how impact and budget considerations drove rewards across the organization will help the conversation go more smoothly and ideally help motivate your employees for the coming year.
 
+
 </details>
 
-
-<details><summary><strong>Consider Key Messages and Employee Questions</strong></summary>
+<details><summary><strong>Choose when to Release the Snapshot</strong></summary>
 <br>
-After reviewing available information and connecting with your manager, you will now have an idea of what type of conversation you will have with the Hubber during the rewards discussion.
+Decide if you want to release your Hubber's Snapshot before or after the rewards discussion 
+</details>
+
+<details><summary><strong>Own the Rewards Message</strong></summary>
+<br>
+    
+As a manager, it is your responsibility to communicate the rewards outcome to your Hubbers and to support it. It is possible for the rewards outcomes to differ from your expectations. If that is the case, it is still important for you as the manager to understand the rewards outcome and own the rewards message. Make sure to connect with your manager to understand all the factors that went into the final rewards outcome. In preparation for the discussion, review the [Snapshot](https://github.com/github/business-systems/blob/master/H2R/Workday/Documentation/Rewards_Snapshot.md) for each of your Hubbers and prepare for potential questions they may ask. Reflect on what you need to communicate to support the rewards outcome. It's also a good idea to revisit the resources that you used to determine the Hubber’s impact for this rewards cycle - 1:1, reflection, feedback, etc.   
+    
+Research shows that an employee’s satisfaction with their pay is closely related to how much they believe their manager was involved and had input in the process. Help your Hubber understand the role you played in determining their impact and recommending their rewards payout percentage.  
+NOTE: If you were not their manager at times of the rewards discussion, then ensure you are ready to represent the former manager’s perspective. 
+<br>
+    
+Key messages to keep in mind as you prepare for the Rewards Discussion: 
+
+* Understand the outcome and **own the message** - watch [Owning Rewards Discussions](https://github.rewatch.com/video/phvvn4uain9h94o8-manager-training-owning-rewards-discussions?t=0) created by Microsofot for some great tips.
+* Acknowledge that rewards **outcomes vary each year**
+* **Respect** each individual and provide a **clear message** to them
+* Be **specific and honest,** and reinforce great **impact** and where they can **grow**  
+  
+</details>
+
+### Step 2: Prepare for Potential Scenarios and Questions You May Encounter ✏️:
+
+
+<details><summary><strong>Key Message and employee questions related to relationship of rewards to prior years</strong></summary>
+<br>
+After reviewing available information and connecting with your manager, you will now have an idea of what type of conversation you will have with the Hubber during the rewards discussion. <br>
   
 While a key principle of our P&D philosophy is one year, one reward, the reality is that many employees will be naturally curious about how their rewards outcomes compare to years prior and this could impact how they respond to the rewards message that is being delivered.
   
@@ -505,36 +532,7 @@ Remember, one year, one reward is an important point to emphasize with employees
 | - | - |  
 | Less opportunity and deliver of impact than last year | This year you had less opportunity (or didn't seek out additional opportunity) than last year to impact results for our (pick one or more): team, business, and/or customer.  Because of this, your rewards this year are less than last year. We've also discussed ways that you can increase your opportunities for impact going forward such as: (share examples you've discussed) | 
 | Role or other change (LOA, New Hire) | The basis for your rewards decreased because (pick one): You had fewer bonus-eligible days this year resulting in prorated rewards for degree of impact delivered; Your grade decreased and your bonus and/or stock opportunity was less; You transferred to a different role with a grade or pay opportunity changes |
-| Similiar impact as last year, but higher expectations due to higher grade | You were promoted into a higher grade this past year, so while you had similiar impact to last year, the expectation for impact increased with that grade change.  The reward outcomes are aligned with impact for your grade. |
-
-
-</details>
-
-<details><summary><strong>Choose when to Release the Snapshot</strong></summary>
-<br>
-Decide if you want to release your Hubber's Snapshot before or after the rewards discussion 
-</details>
-
-<details><summary><strong>Own the Rewards Message</strong></summary>
-<br>
-    
-As a manager, it is your responsibility to communicate the rewards outcome to your Hubbers and to support it. It is possible for the rewards outcomes to differ from your expectations. If that is the case, it is still important for you as the manager to understand the rewards outcome and own the rewards message. Make sure to connect with your manager to understand all the factors that went into the final rewards outcome. In preparation for the discussion, review the [Snapshot](https://github.com/github/business-systems/blob/master/H2R/Workday/Documentation/Rewards_Snapshot.md) for each of your Hubbers and prepare for potential questions they may ask. Reflect on what you need to communicate to support the rewards outcome. It's also a good idea to revisit the resources that you used to determine the Hubber’s impact for this rewards cycle - 1:1, reflection, feedback, etc.   
-    
-Research shows that an employee’s satisfaction with their pay is closely related to how much they believe their manager was involved and had input in the process. Help your Hubber understand the role you played in determining their impact and recommending their rewards payout percentage.  
-NOTE: If you were not their manager at times of the rewards discussion, then ensure you are ready to represent the former manager’s perspective. 
-<br>
-    
-Key messages to keep in mind as you prepare for the Rewards Discussion: 
-
-* Understand the outcome and **own the message** - watch [Owning Rewards Discussions](https://github.rewatch.com/video/phvvn4uain9h94o8-manager-training-owning-rewards-discussions?t=0) created by Microsofot for some great tips.
-* Acknowledge that rewards **outcomes vary each year**
-* **Respect** each individual and provide a **clear message** to them
-* Be **specific and honest,** and reinforce great **impact** and where they can **grow**  
-  
-</details>
-
-### Step 2: Prepare for Potential Scenarios and Questions You May Encounter ✏️:
-<details><summary><strong>Be prepared for potential employee questions</strong></summary>
+| Similiar impact as last year, but higher expectations due to higher grade | You were promoted into a higher grade this past year, so while you had similiar impact to last year, the expectation for impact increased with that grade change.  The reward outcomes are aligned with impact for your grade. |<details><summary><strong>Be prepared for potential employee questions</strong></summary>
 <br>
 **Directional Guidance:**
     <br>
@@ -568,22 +566,21 @@ Key messages to keep in mind as you prepare for the Rewards Discussion:
 
 </details>
 
-<details><summary><strong>Did I receive a low rewards outcome this year because of Covid-19?</strong></summary>
-<br>
-
-**Directional Guidance:**
-    <br>
-* Receiving a lower rewards outcome (e.g., zero rewards, or zero/lower stock) can be difficult to process, but even in these unique times, we can’t delay or avoid tough conversations.<br>
-* Be clear that this outcome reflects the employee’s impact for the year and only time worked (e.g if they had a LOA).,br>
-* Listen with empathy to any reactions they might have. <br>
-* Show care by being direct and specific when communicating your expectations going forward.
+<details><summary><strong>Why did I receive these rewards versus some other amount?</strong></summary>
 <br>
     
+**Directional Guidance:**
+This may be asked any number of ways and is likely to be a common type of question given our approach where rewards outcomes are not aligned to pre-determined definitions or categories.
+* "Reiterate that we deliver higher rewards for higher impact”<br>
+  
 **Potential Talking Points:**
-* “I know that you’ve had a lot to balance over the past few months and I value all that you have been able to do for the business during this time. I considered your impact for the full fiscal year when recommending rewards.”<br>
-* “When determining your impact, I considered how we prioritized your deliverables and what impact you were able to drive as a result.”<br>
-* “Knowing that things continue to be uncertain, let’s discuss priorities for the period ahead and how I can best support you.”<br>
-
+Ensure your Hubber has a shared understanding of their level of impact for the past fiscal year.
+* “Briefly highlight how they delivered impact against their priorities.  Did they deliver on some or all?  Are there areas where they could have had greater impact?”<br>
+* “Share examples of how they delivered impact against the 3 circles.  In addition to individual contributions, how did they leverage the work of other and contribute to others success?”<br>
+* “Reference themes from feedback from peers.”<br>
+  * “Share examples of what higher impact looked like in the organization leveraging impact benchmarks from Impact Discussions.”<br>
+  * “Reiterate that we operate within a high performing organization and have high expectations for every Hubber.”<br>
+  * “Reference the Hubber's compensation over time and focus the discussion on increasing impact as the way to earn even greater rewards.”<br>
 
 </details>
 
