@@ -415,7 +415,8 @@ A Rewards Discussion is not a detailed review of all accomplishments over the la
 
 [**Step 1:  Get Ready for the Rewards Discussion**](https://github.com/JbytheC/JbytheC/blob/main/RewardsDiscussion.md#step-1-get-ready-for-the-rewards-discussion-calendar-)
 <br>
-**Step 2:  Communicate Rewards**
+**Step 2:  Prepare for Scenarios & Questions You May Encounter**
+**Step :  Communicate Rewards**
 <br>
 
 ### Step 1: Get Ready for the Rewards Discussion :calendar: 📝
@@ -484,10 +485,10 @@ Remember, one year, one reward is an important point to emphasize with employees
 | Consideration |Talking Points|
 | - | - |
 | Greater opportunity and delivery of impact than last year| This year you had increased opportunity to impact results for our (team, business, customer) And you effectively took advantage of those opportunities because of this, you are receiving more rewards as recontition of that maximized impact.  |
-| More impactful performance than last year  | You delivered more impact this year by (pick one or more): Strengthening your individual achievements; Contributing more to the success of others; Leveraging more of the work and ideas of others; Helping to make GitHub a more diverse and inclusive environment; Delivering success through empowerment and accountability by modeling, coaching and caring (applicable to managers)
-Because of this, you are receiving more rewards as recognition of that strengthened impact |
+| More impactful performance than last year  | You delivered more impact this year by (pick one or more): Strengthening your individual achievements; Contributing more to the success of others; Leveraging more of the work and ideas of others; Helping to make GitHub a more diverse and inclusive environment; Delivering success through empowerment and accountability by modeling, coaching and caring (applicable to managers). Because of this, you are receiving more rewards as recognition of that strengthened impact. |
 | We value individual contributions and working together | You continued to effecively: Contribute to the success of others; Leverage the work and ideas of others.  Your higher rewards reflect recognition of the way you work with and t hrough others to have (better and/or broader impact. |
 | Role or grade change| The basis for your rewards increased because you (pick one): Recived a promoiton and your bonus and /orstock opportunity increased; Transferred to a different role with grade or pay opportunity changes; You had more bonus-eligible days this year; You did not work a full year last year (for exampe LOA, new hire|
+ 
   
 **The Hubber received comparative rewards outcomes**
 
@@ -505,9 +506,7 @@ Because of this, you are receiving more rewards as recognition of that strengthe
 | Role or other change (LOA, New Hire) | The basis for your rewards decreased because (pick one): You had fewer bonus-eligible days this year resulting in prorated rewards for degree of impact delivered; Your grade decreased and your bonus and/or stock opportunity was less; You transferred to a different role with a grade or pay opportunity changes |
 | Similiar impact as last year, but higher expectations due to higher grade | You were promoted into a higher grade this past year, so while you had similiar impact to last year, the expectation for impact increased with that grade change.  The reward outcomes are aligned with impact for your grade. |
 
-</details>
-
-
+  
 <details><summary><strong>Own the Rewards Message</strong></summary>
 <br>
     
@@ -523,88 +522,12 @@ Key messages to keep in mind as you prepare for the Rewards Discussion:
 * Acknowledge that rewards **outcomes vary each year**
 * **Respect** each individual and provide a **clear message** to them
 * Be **specific and honest,** and reinforce great **impact** and where they can **grow**  
-
-<br>
-    
+  
 </details>
 
-### Discussing the Rewards Outcome 👥
-
-Before each Rewards Discussion plan on how you'd like the convesation to unfold. Listen to understand and invite participation - encourage conversation through open-ended questions. Pause to create space for your employee to share their perspective. Also, embrace the silence - silence can be an important time for your Hubber to think and reflect before asking questions or sharing how they feel.
+### Step 2: Prepare for Potential Scenarios and Questions You May Encounter ✏️:
+<details><summary><strong>Be prepared for potential employee questions</strong></summary>
 <br>
-
-
-Keep the following in mind:
-
-- [ ] **Set Up the Discussion:** The approach to the discussion is critical since a rewards discussion is a moment that matters.  Regardless of the message, role model our culture, leadership principles and our commitment to diversity, inclusion and belonging.
-- [ ] **Express Gratitude:** Even in situations where you expect a difficult conversation, make sure to express gratitude for the impact delivered this past cycle.
-- [ ] **Practice Inclusive Behaviors:** Unconscious bias is a quick and often inaccurate judgement based on limited facts and our own life experiences. We all have unconscious bias, but can be more aware by keeping the following in mind: 
-* Examine your assumptions
-* Make a habit of asking questions
-* Listen carefully to the employee until they feel understood
-- [ ] **Set the Context:** Describe the process and rationale behind rewards to ensure you have a shared understanding of how impact was determined
-- [ ] **Use the [Determining Impact](https://github.com/PeopleManagers/managers/blob/master/manager-toolkit/Assets/Impact%20Circles.png)** framework to talk about their impact
-- [ ] **Transition into the rewards discussion:** “In recognition of the impact you’ve had this past year, you’ve earned the following rewards...”
-- [ ] **Thank the Hubber:** Talk about the Hubber’s opportunity for impact in the upcoming year
-
-And as always, be mindful of your language: 
-
-| When thinking about... | Avoid Saying | Instead, say… |
-| ---- | ---- | ---- | 
-| Framing their impact related to rewards | You’re a rock star  | You had higher impact - both in results and behavior |
-| Using “relative” language | You showed ‘x’ impact compared to your peers | Based on your opportunity for impact, your rewards are ‘x’ |
-| Terminology | 160% payout | Higher immpact |
-| Owning your influence in the process | If it was up to me… | As managers, we discussed what high impact looks like across the org and I made a recommendation |
-
-### Navigating Expectations 🧭 
-
-Anticipate your Hubbers reward expectations.
-
-<details><summary><strong>More Rewards Than Expected</strong></summary>
-<br>
-    
-*How do I repeat this next year?* 
-<br>
-    
-* Encourage your employee to maximize impact through results and behaviors<br>
-* Emphasize the importance of living our leadership principles and DI&B culture<br>
-* Encourage ongoing conversations throughout the year
-
-</details>
-
-<details><summary><strong>Same Rewards as Expected</strong></summary>
-<br>
-    
-*What could I have done differently for higher rewards?*
-<br>
-    
-* Focus the conversation on where your employee could have delivered higher impact<br>
-* Refer to discussions throughout the year, noting specific instances where opportunities for impact were missed or less than anticipated 
-
-</details>
-
-<details><summary><strong>Less Rewards Than Expected</strong></summary>
-<br>
-    
-*How was this decision reached?*
-<br>
-    
-* Provide a high-level overview of the rewards process and point out your role in making recommendations<br>
-* Touch on key points that framed your recommendation and the context of impact across the larger organization<br>
-* Emphasize that rewards are based on impact for a single given year, and take the opportunity to motivate them for the year ahead <br>
-
-</details>
-
-
-### Scenarios & Questions You May Encounter ❔
-
-Consider questions each of your Hubbers may ask - think about questions from their point of view. Prepare your answers.
-<br>
-
-<details><summary><strong>I’ve been working more but my rewards don’t seem to reflect that - why?</strong></summary>
-<br>
-
-
 **Directional Guidance:**
     <br>
 * Express care, acknowledging that the circumstances of this unprecedented year have impacted all of us in different ways.<br>
@@ -687,6 +610,90 @@ Consider questions each of your Hubbers may ask - think about questions from the
 * “I appreciate the time and effort that you put into this year. I recognize the challenges you worked through to continue to deliver for the team/company.”<br>
 
 </details>
+</details>
+
+<br>
+    
+</details>
+
+### Discussing the Rewards Outcome 👥
+
+Before each Rewards Discussion plan on how you'd like the convesation to unfold. Listen to understand and invite participation - encourage conversation through open-ended questions. Pause to create space for your employee to share their perspective. Also, embrace the silence - silence can be an important time for your Hubber to think and reflect before asking questions or sharing how they feel.
+<br>
+
+
+Keep the following in mind:
+
+- [ ] **Set Up the Discussion:** The approach to the discussion is critical since a rewards discussion is a moment that matters.  Regardless of the message, role model our culture, leadership principles and our commitment to diversity, inclusion and belonging.
+- [ ] **Express Gratitude:** Even in situations where you expect a difficult conversation, make sure to express gratitude for the impact delivered this past cycle.
+- [ ] **Practice Inclusive Behaviors:** Unconscious bias is a quick and often inaccurate judgement based on limited facts and our own life experiences. We all have unconscious bias, but can be more aware by keeping the following in mind: 
+* Examine your assumptions
+* Make a habit of asking questions
+* Listen carefully to the employee until they feel understood
+- [ ] **Set the Context:** Describe the process and rationale behind rewards to ensure you have a shared understanding of how impact was determined
+- [ ] **Use the [Determining Impact](https://github.com/PeopleManagers/managers/blob/master/manager-toolkit/Assets/Impact%20Circles.png)** framework to talk about their impact
+- [ ] **Transition into the rewards discussion:** “In recognition of the impact you’ve had this past year, you’ve earned the following rewards...”
+- [ ] **Thank the Hubber:** Talk about the Hubber’s opportunity for impact in the upcoming year
+
+And as always, be mindful of your language: 
+
+| When thinking about... | Avoid Saying | Instead, say… |
+| ---- | ---- | ---- | 
+| Framing their impact related to rewards | You’re a rock star  | You had higher impact - both in results and behavior |
+| Using “relative” language | You showed ‘x’ impact compared to your peers | Based on your opportunity for impact, your rewards are ‘x’ |
+| Terminology | 160% payout | Higher immpact |
+| Owning your influence in the process | If it was up to me… | As managers, we discussed what high impact looks like across the org and I made a recommendation |
+
+### Navigating Expectations 🧭 
+
+Anticipate your Hubbers reward expectations.
+
+<details><summary><strong>More Rewards Than Expected</strong></summary>
+<br>
+    
+*How do I repeat this next year?* 
+<br>
+    
+* Encourage your employee to maximize impact through results and behaviors<br>
+* Emphasize the importance of living our leadership principles and DI&B culture<br>
+* Encourage ongoing conversations throughout the year
+
+</details>
+
+<details><summary><strong>Same Rewards as Expected</strong></summary>
+<br>
+    
+*What could I have done differently for higher rewards?*
+<br>
+    
+* Focus the conversation on where your employee could have delivered higher impact<br>
+* Refer to discussions throughout the year, noting specific instances where opportunities for impact were missed or less than anticipated 
+
+</details>
+
+<details><summary><strong>Less Rewards Than Expected</strong></summary>
+<br>
+    
+*How was this decision reached?*
+<br>
+    
+* Provide a high-level overview of the rewards process and point out your role in making recommendations<br>
+* Touch on key points that framed your recommendation and the context of impact across the larger organization<br>
+* Emphasize that rewards are based on impact for a single given year, and take the opportunity to motivate them for the year ahead <br>
+
+</details>
+
+
+### Scenarios & Questions You May Encounter ❔
+
+Consider questions each of your Hubbers may ask - think about questions from their point of view. Prepare your answers.
+<br>
+
+<details><summary><strong>I’ve been working more but my rewards don’t seem to reflect that - why?</strong></summary>
+<br>
+
+
+
 
 ## :white_check_mark: Resources for Rewards
 - [ ] **[Snapshot Guide:](https://github.com/github/business-systems/blob/master/H2R/Workday/Documentation/Rewards_Snapshot.md)** Guidance on how to view and download a rewards Snapshot. 
