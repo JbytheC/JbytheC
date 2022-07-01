@@ -532,7 +532,9 @@ Remember, one year, one reward is an important point to emphasize with employees
 | - | - |  
 | Less opportunity and deliver of impact than last year | This year you had less opportunity (or didn't seek out additional opportunity) than last year to impact results for our (pick one or more): team, business, and/or customer.  Because of this, your rewards this year are less than last year. We've also discussed ways that you can increase your opportunities for impact going forward such as: (share examples you've discussed) | 
 | Role or other change (LOA, New Hire) | The basis for your rewards decreased because (pick one): You had fewer bonus-eligible days this year resulting in prorated rewards for degree of impact delivered; Your grade decreased and your bonus and/or stock opportunity was less; You transferred to a different role with a grade or pay opportunity changes |
-| Similiar impact as last year, but higher expectations due to higher grade | You were promoted into a higher grade this past year, so while you had similiar impact to last year, the expectation for impact increased with that grade change.  The reward outcomes are aligned with impact for your grade. |<details><summary><strong>Be prepared for potential employee questions</strong></summary>
+| Similiar impact as last year, but higher expectations due to higher grade | You were promoted into a higher grade this past year, so while you had similiar impact to last year, the expectation for impact increased with that grade change.  The reward outcomes are aligned with impact for your grade. |
+
+details><summary><strong>Be prepared for potential employee questions</strong></summary>
 <br>
 **Directional Guidance:**
     <br>
@@ -570,17 +572,16 @@ Remember, one year, one reward is an important point to emphasize with employees
 <br>
     
 **Directional Guidance:**
-This may be asked any number of ways and is likely to be a common type of question given our approach where rewards outcomes are not aligned to pre-determined definitions or categories.
-* "Reiterate that we deliver higher rewards for higher impact”<br>
-  
-**Potential Talking Points:**
-Ensure your Hubber has a shared understanding of their level of impact for the past fiscal year.
-* “Briefly highlight how they delivered impact against their priorities.  Did they deliver on some or all?  Are there areas where they could have had greater impact?”<br>
-* “Share examples of how they delivered impact against the 3 circles.  In addition to individual contributions, how did they leverage the work of other and contribute to others success?”<br>
-* “Reference themes from feedback from peers.”<br>
-  * “Share examples of what higher impact looked like in the organization leveraging impact benchmarks from Impact Discussions.”<br>
-  * “Reiterate that we operate within a high performing organization and have high expectations for every Hubber.”<br>
-  * “Reference the Hubber's compensation over time and focus the discussion on increasing impact as the way to earn even greater rewards.”<br>
+This may be asked any number of ways and is likely to be a common type of question given our approach where rewards outcomes are not aligned to pre-determined definitions or categories. 
+* Ensure your Hubber has a shared understanding of their level of impact for the past fiscal year.
+* Reiterate that we deliver higher rewards for higher impact<br>
+
+* Briefly highlight how they delivered impact against their priorities.  Did they deliver on some or all?  Are there areas where they could have had greater impact?<br>
+* Share examples of how they delivered impact against the 3 circles.  In addition to individual contributions, how did they leverage the work of other and contribute to others success?<br>
+* Reference themes from feedback from peers.<br>
+* Share examples of what higher impact looked like in the organization leveraging impact benchmarks from Impact Discussions.<br>
+* Reiterate that we operate within a high performing organization and have high expectations for every Hubber.<br>
+* Reference the Hubber's compensation over time and focus the discussion on increasing impact as the way to earn even greater rewards.<br>
 
 </details>
 
