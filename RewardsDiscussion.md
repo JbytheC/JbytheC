@@ -500,7 +500,7 @@ Key messages to keep in mind as you prepare for the Rewards Discussion:
   
 </details>
 
-
+<br>
 ### Step 2: Prepare for Potential Scenarios and Questions You May Encounter ✏
 
 <details><summary><strong>Key Message and employee questions related to relationship of rewards to prior years</strong></summary>
@@ -708,7 +708,8 @@ Discuss the promotion criteria - business need, employee impact, and budget avai
 <br>
     
 </details>
-
+<br>
+  
 ### Step 3: Communicate Rewards 👥
 Before each Rewards Discussion plan on how you'd like the convesation to unfold. Listen to understand and invite participation - encourage conversation through open-ended questions. Pause to create space for your employee to share their perspective. Also, embrace the silence - silence can be an important time for your Hubber to think and reflect before asking questions or sharing how they feel.
 <br>
