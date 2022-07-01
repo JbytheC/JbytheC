@@ -510,6 +510,11 @@ Remember, one year, one reward is an important point to emphasize with employees
 
 </details>
 
+<details><summary><strong>Choose when to Release the Snapshot</strong></summary>
+<br>
+Decide if you want to release your Hubber's Snapshot before or after the rewards discussion 
+</details>
+
 <details><summary><strong>Own the Rewards Message</strong></summary>
 <br>
     
