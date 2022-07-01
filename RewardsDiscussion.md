@@ -565,8 +565,6 @@ This may be asked any number of ways and is likely to be a common type of questi
 This could be asked many different ways: Who made this decision? Is this what you think is fair? Did you recommend more? How ere budgets calculate?  Understand and talk about: <br>
 * Explain at a high level how the process for determining impact and recommending rewards works.  Focus on how you determined impact. <br>
 * Be sure to point out your role in making an initial recommendation and touch on highlights that framed your recommendation. <br>
-* Talk about the role of the next-level managers who rationalize rewards recommendations across the organization to ensure consistency and the role of the organizational leader to allocate budget.<br>
-Explain the implications of a fixed budget when driving the rewards outcomes: <br>
 * We work to differentiate rewards based on where we see the greatest impact in the past year.  We give higher rewards for higher impact, and lower rewards for lower impact in the previous fiscal year. <br>
 * If all managers indicate high impact for all Hubbers the underlying budget will drive lower rewards than the outcomes available when impact and rewards are differentiated. <br>
 
@@ -578,11 +576,10 @@ Explain the implications of a fixed budget when driving the rewards outcomes: <b
 
 **Directional Guidance:**
 When an employee receives top rewards, or more rewards than expected, they may ask what is needed to achieve a similar outcome in the year ahead. <br>
-* Express empathy, acknowledging that shifts in priorities may have affected opportunity for impact post-COVID-19.<br>
 * Encourage the employee to maximize impact across all three areas: individual contributions, leveraging the work of others and contributing to the success of others. <br>
 * Share the importance of delivering impact in alignment with our culture and values, including actively contributing to an inclusive environment and if a manager, delivering success through empowerment and accountability by modeling, coaching and caring.<br>
 * Emphasize the importance of a growth mindset, asking for feedback from a diverse set of stakeholders and applying what you learn. <br>
-* Encourage on-going dialogue through robust 1:1s and Reflection discussions throughout the year to reflect on impact and how to prioritize and align on work going forward. <br>
+* Encourage on-going conversations throughout the year.<br>
 * Acknowledge that each year is different and brings new opportunities to learn, grow, and deliver impact. <br>
   
 </details>
@@ -713,21 +710,33 @@ Discuss the promotion criteria - business need, employee impact, and budget avai
     
 </details>
 
-### Discussing the Rewards Outcome 👥
-
+### Step 3: Communicate Rewards 👥
 Before each Rewards Discussion plan on how you'd like the convesation to unfold. Listen to understand and invite participation - encourage conversation through open-ended questions. Pause to create space for your employee to share their perspective. Also, embrace the silence - silence can be an important time for your Hubber to think and reflect before asking questions or sharing how they feel.
 <br>
+  
+  
+  </details>
 
+<details><summary><strong>Model, Coach, Care</strong></summary>
+Every Rewaards discussion is an opportunity to model, coach, care: <br>
 
-Keep the following in mind:
+* Model:  Embody our values. Demonstrate respect, integrity, and accountability throughout the conversation and beyond. Create clarity about rewards outcomes and generate positive energy about next steps. <br>
+* Coach:  Help the team adapt and learn. Recognize your Hubber’s accomplishments and provide context to improve individual and team performance.<br>
+* Care:  Invest in the growth of others. Conduct an open and healthy conversation. Listen and create space for them to process the information you are sharing.<br>
 
-- [ ] **Set Up the Discussion:** The approach to the discussion is critical since a rewards discussion is a moment that matters.  Regardless of the message, role model our culture, leadership principles and our commitment to diversity, inclusion and belonging.
+ 
+   </details>
+
+<details><summary><strong>Set up the conversation.</strong></summary>
+Regardless of the message you're sharing, managers should:<br>
+
 - [ ] **Express Gratitude:** Even in situations where you expect a difficult conversation, make sure to express gratitude for the impact delivered this past cycle.
-- [ ] **Practice Inclusive Behaviors:** Unconscious bias is a quick and often inaccurate judgement based on limited facts and our own life experiences. We all have unconscious bias, but can be more aware by keeping the following in mind: 
+- [ ] **Practice Inclusive Behaviors:** Unconscious bias is a quick and often inaccurate judgement based on limited facts and our own life experiences. We all have unconscious bias, but can be more aware by keeping the following in mind: <br>
 * Examine your assumptions
-* Make a habit of asking questions
 * Listen carefully to the employee until they feel understood
-- [ ] **Set the Context:** Describe the process and rationale behind rewards to ensure you have a shared understanding of how impact was determined
+- [ ] **Respect each individual:** Keep in mind that each individual is unique and may understand and respond to rewards messages differently. 
+- [ ] **Be focused, specific and honest:** Provide a clear message to each of your employees. For employees with low or zero rewards, be honest about where and how they need to focus to have higher impact.
+- [ ] **Set the Context:** Describe the process and rationale behind rewards to ensure you have a shared understanding of how impact was determined. 
 - [ ] **Use the [Determining Impact](https://github.com/PeopleManagers/managers/blob/master/manager-toolkit/Assets/Impact%20Circles.png)** framework to talk about their impact
 - [ ] **Transition into the rewards discussion:** “In recognition of the impact you’ve had this past year, you’ve earned the following rewards...”
 - [ ] **Thank the Hubber:** Talk about the Hubber’s opportunity for impact in the upcoming year
@@ -741,55 +750,21 @@ And as always, be mindful of your language:
 | Terminology | 160% payout | Higher immpact |
 | Owning your influence in the process | If it was up to me… | As managers, we discussed what high impact looks like across the org and I made a recommendation |
 
-### Navigating Expectations 🧭 
-
-Anticipate your Hubbers reward expectations.
-
-<details><summary><strong>More Rewards Than Expected</strong></summary>
-<br>
-    
-*How do I repeat this next year?* 
-<br>
-    
-* Encourage your employee to maximize impact through results and behaviors<br>
-* Emphasize the importance of living our leadership principles and DI&B culture<br>
-* Encourage ongoing conversations throughout the year
-
 </details>
 
-<details><summary><strong>Same Rewards as Expected</strong></summary>
+<details><summary><strong>Share the rewards outcome</strong></summary>
 <br>
-    
-*What could I have done differently for higher rewards?*
-<br>
-    
-* Focus the conversation on where your employee could have delivered higher impact<br>
-* Refer to discussions throughout the year, noting specific instances where opportunities for impact were missed or less than anticipated 
+* Share the Hubber's Snapshot.  The Snapshot is designed to communicate the Hubber's rewards for their impact in the recently completed fiscal year.  <br>
+* Take the time to go through each section of the Snapshot.  <br>
 
+  </details>
+
+<details><summary><strong>Close and agree on next steps</strong></summary>
+<br>
+* Set up or confirm timing of 1:1s, and note what you can each focus on for that discussion. <br>
+* Be sure to say thank you! Let your Hubber know that you value their contributions and congratulate them on their rewards, if applicable. Set the tone for how you'll work together to drive even greater impact to deliver success in the year ahead.
+  
 </details>
-
-<details><summary><strong>Less Rewards Than Expected</strong></summary>
-<br>
-    
-*How was this decision reached?*
-<br>
-    
-* Provide a high-level overview of the rewards process and point out your role in making recommendations<br>
-* Touch on key points that framed your recommendation and the context of impact across the larger organization<br>
-* Emphasize that rewards are based on impact for a single given year, and take the opportunity to motivate them for the year ahead <br>
-
-</details>
-
-
-### Scenarios & Questions You May Encounter ❔
-
-Consider questions each of your Hubbers may ask - think about questions from their point of view. Prepare your answers.
-<br>
-
-<details><summary><strong>I’ve been working more but my rewards don’t seem to reflect that - why?</strong></summary>
-<br>
-
-
 
 
 ## :white_check_mark: Resources for Rewards
