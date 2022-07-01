@@ -418,7 +418,6 @@ A Rewards Discussion is not a detailed review of all accomplishments over the la
 **Step 2:  Prepare for Scenarios & Questions You May Encounter**
 <br>
 **Step 3:  Communicate Rewards**
-
 <br>
 
 ### Step 1: Get Ready for the Rewards Discussion :calendar: 📝
@@ -429,7 +428,6 @@ The best Rewards Discussions are those a manager is prepared to have. They may b
     
 Schedule a date and time for each Rewards Discussion, ~20 minutes, and set expectations with your Hubbber about what the discussion will entail.  Managers are notified via email when Snapshots are made available, typically  mid-August.  Rewards Discussions should take place prior to mid-September when Snapshots are auto-released to employees or before September 1 if the employee is being promoted effective on that date.  Click here for [Key Dates](https://github.com/PeopleManagers/managers/blob/master/manager-toolkit/People%20Processes/FY22Key-Dates.md). 
 When selecting a date for each discussion, ensure that you have allowed yourself adequate time to prepare before the discussion.  Consider scheduling a buffer of time between discussions in case you need extra time. 
-
 
 </details>
 
@@ -501,6 +499,7 @@ Key messages to keep in mind as you prepare for the Rewards Discussion:
 * Be **specific and honest,** and reinforce great **impact** and where they can **grow**  
   
 </details>
+
 
 ### Step 2: Prepare for Potential Scenarios and Questions You May Encounter ✏
 
@@ -610,7 +609,7 @@ Focus the conversation on where your Hubber could have delivered higher impact a
     
   </details>
 
-<details><summary><strong>What did you use to determine and represent my impact for the rewards process?/strong></summary>
+<details><summary><strong>What did you use to determine and represent my impact for the rewards process?</strong></summary>
 <br>
 
 **Directional Guidance:**
@@ -624,7 +623,7 @@ Talk with your Hubber about what sources you used to inform your impact recommen
   
   </details>
 
-<details><summary><strong>Why did I get zero rewards</strong></summary>
+<details><summary><strong>Why did I get zero rewards?</strong></summary>
 <br>
 
 **Directional Guidance:**
